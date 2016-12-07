@@ -1,0 +1,10 @@
+.team-box{
+    float:left;
+    width: 20em;
+    border: 3px solid cadetblue;
+    margin: 1em;
+}
+.spanner{
+    display: block;
+    background-color: cadetblue;
+}
